@@ -1,4 +1,4 @@
-# DataAnalysisforIE
+# Data Analysis for IE
 Designed a data analysis program for IE
 
 the program mainly includes four functions, the measurment of geometric properties, coordinate transformation, statistics, and regression analysis
